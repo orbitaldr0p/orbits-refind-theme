@@ -11,3 +11,5 @@ _orbit's rEFInd Theme
 2. Add the line `include orbits-theme.conf` to refind.conf
 3. ???
 4. profit.
+
+If the icons don't work go look in /refind/icons and find out what icons your refind is using, then just rename the icons that came w/ the theme.
